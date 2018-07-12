@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void func(int a, char b, int c){
-	printf("%d%c%d", a, b, c);
+	printf("%d%c%d\n", a, b, c);
 	return;
 }
 
