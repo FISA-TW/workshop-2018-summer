@@ -6,11 +6,7 @@ void func(int a, char b, int c){
 }
 
 int main(void){
-	int a = 1;
-	char b = '2';
-	int c = 3;
-
-	func(a, b, c);
+	func(1, '2', 3);
 	
 	return 0;
 }
